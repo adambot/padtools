@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name         Puzzle and Dragons Forum fixes
 // @namespace    http://puzzleanddragonsforum.com/
-// @version      0.3
+// @version      0.3.1
+// @updateURL    https://raw.githubusercontent.com/adambot/padtools/master/Puzzle%20and%20Dragons%20Forum%20fixes.user.js
 // @description  Script to make the old guides readable
 // @author       adambot
 // @match        http://puzzleanddragonsforum.com/*
